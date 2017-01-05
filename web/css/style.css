@@ -1,0 +1,52 @@
+body {
+	background:#78b2d2;
+	color:#FFFFFF;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 600px;
+}
+h1 {
+	font-size:50px;
+	text-align:center;
+	font-family: courier;
+	
+}
+.mybutton{
+	padding:6px;
+	border:1px solid #666;
+	border-radius:10px;
+	display:inline-block;
+	vertical-align:middle;
+	text-decoration:none;
+	color:#fff;
+	transition:background 1s;
+	font-size:30px;
+}
+.mybutton:hover{
+	background-color:gray;
+}
+.par{
+	font-size:25px;
+	text-align:center;
+	font-family: courier;
+	color:brown;
+}
+table { 
+	margin: 0 auto;
+	background-color:gray;
+    table-layout:fixed; width:500px;
+}
+table tr {
+    height: 35px;
+}
+.buttonss{
+	height:40px;
+    width:80px;
+	font-size:25px;
+}
+.input{
+	height:35px;
+    width:380px;
+}
